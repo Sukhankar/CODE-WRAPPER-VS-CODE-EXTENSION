@@ -22,6 +22,7 @@ https://github.com/user-attachments/assets/8dc17ec9-7bf7-4803-b850-2b9e524fbc60
 ## Features
 
 -The **Wrapper HTML** extension allows you to quickly and easily wrap selected HTML code with common HTML tags like `<div>`, `<section>`, `<article>`, etc. No more worrying about manually closing the tags—this extension handles that for you!
+
 -In this Added new features like One can also give the class and id for the tags
 
 ### Usage:
