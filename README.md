@@ -7,7 +7,7 @@
 ## Developed By
 - [Avishkar Mahalingpure](https://github.com/Spikree)
 - [Harsh Bailurkar](https://github.com/Harshbailurkar)
-- [Sukhankar Hanaminahal(https://github.com/Sukhankar)]
+- [Sukhankar Hanaminahal](https://github.com/Sukhankar)
 
 ## Demo Video
 
